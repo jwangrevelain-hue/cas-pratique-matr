@@ -1,0 +1,841 @@
+subscription_id,user_id,plan_name,start_date,end_date,status,monthly_price,auto_renew,billing_cycle,last_payment_date,total_revenue
+s_000352,u_00352,Pro ,2024-06-27,,active,19.99,True,monthly,2026-07-03,459.63
+s_000510,u_00510,Pro ,2024-12-12,,active,19.99,True,monthly,2026-06-19,385.12
+s_000462,u_00462,Premium ,2024-07-13,,active,39.99,True,monthly,2026-06-19,957.04
+s_000433,u_00433,Pro ,2024-08-05,,active,19.99,True,yearly,2026-06-29,428.62
+s_000023,u_00023,Pro,2025-11-01,2026-05-02,cancelled,19.99,True,monthly,2026-04-29,114.99
+s_000436,u_00436,BASIC,2026-01-29,,active,9.99,True,monthly,2026-06-29,54.4
+s_000346,u_00346,BAsic,2026-01-03,,active,9.99,False,yearly,2026-06-16,56.51
+s_000616,u_00616,Basic ,2024-11-02,,active,9.99,True,monthly,2026-06-25,187.8
+s_000355,u_00355,BAsic,2024-10-23,,active,9.99,True,yearly,2026-06-20,196.71
+s_000170,u_00170,Bacic,2025-01-19,,active,9.99,True,monthly,2026-06-28,165.52
+s_000005,u_00005,PREMIUM,2024-12-17,,active,39.99,False,monthly,2026-06-30,752.71
+s_000034,u_00034,BAsic,2025-09-10,,active,9.99,False,monthly,2026-06-27,103.95
+s_000080,u_00080,Basic ,2025-12-29,2026-05-23,cancelled,9.99,True,monthly,2026-05-06,50.61
+s_000237,u_00237,basic,2024-05-12,,active,9.99,False,monthly,2026-06-20,243.62
+s_000577,u_00577,pr0,2024-08-12,,active,19.99,True,yearly,2026-06-15,425.58
+s_000333,u_00333,BASIC,2025-07-20,2026-06-16,cancelled,9.99,True,monthly,2026-05-25,113.42
+s_000728,u_00728,Proo,2024-09-11,,active,19.99,True,monthly,2026-06-14,401.35
+s_000377,u_00377,Proo,2024-03-24,,active,19.99,True,monthly,2026-06-24,555.93
+s_000241,u_00241,BAsic,2024-07-22,,active,9.99,True,monthly,2026-06-15,219.18
+s_000704,u_00704,BASIC,2024-12-14,,active,9.99,True,monthly,2026-06-25,190.87
+s_000479,u_00479,BAsic,2025-01-14,,active,9.99,True,yearly,2026-06-26,170.45
+s_000767,u_00767,BASIC,2024-06-08,,active,9.99,True,monthly,2026-06-12,250.78
+s_000289,u_00289,Bacic,2024-10-23,2026-04-27,cancelled,9.99,False,yearly,2026-04-14,179.46
+s_000200,u_00200,pr0,2025-05-20,,active,19.99,True,monthly,2026-06-19,253.11
+s_000018,u_00018,BAsic,2025-11-15,,active,9.99,True,monthly,2026-06-14,76.11
+s_000551,u_00551,BAsic,2025-11-26,,active,9.99,False,monthly,2026-06-23,72.28
+s_000664,u_00664,BASIC,2024-04-21,,active,9.99,False,monthly,2026-07-02,276.85
+s_000587,u_00587,Premium,2025-06-07,,active,39.99,True,monthly,2026-06-15,486.45
+s_000765,u_00765,Bacic,2024-06-19,,active,9.99,False,monthly,2026-07-03,258.59
+s_000430,u_00430,BAsic,2025-09-03,,active,9.99,True,monthly,2026-06-16,99.55
+s_000780,u_00780,Proo,2025-09-04,,active,19.99,False,monthly,2026-06-20,190.72
+s_000503,u_00503,Proo,2025-03-20,,active,19.99,False,monthly,2026-06-25,318.72
+s_000585,u_00585,Bacic,2025-12-01,2026-06-30,cancelled,9.99,True,monthly,2026-06-12,64.03
+s_000471,u_00471,Basic,2026-01-07,,active,9.99,False,yearly,2026-07-05,61.1
+s_000180,u_00180,Premuim,2025-12-28,,active,39.99,False,yearly,2026-07-04,246.03
+s_000582,u_00582,pro,2024-05-15,,active,19.99,True,monthly,2026-06-24,517.21
+s_000261,u_00261,BAsic,2025-03-05,,active,9.99,True,yearly,2026-07-02,158.61
+s_000108,u_00108,BASIC,2025-08-06,,active,9.99,True,monthly,2026-06-21,113.31
+s_000013,u_00013,pr0,2024-11-06,,active,19.99,True,yearly,2026-06-30,372.04
+s_000001,u_00001,Proo,2025-07-28,,active,19.99,True,monthly,2026-06-26,233.65
+s_000382,u_00382,Proo,2024-07-14,,active,19.99,True,monthly,2026-07-05,453.91
+s_000428,u_00428,Pro ,2024-09-28,2026-04-13,cancelled,19.99,True,monthly,2026-04-07,364.12
+s_000012,u_00012,Proo,2025-09-22,,active,19.99,True,monthly,2026-06-26,197.54
+s_000618,u_00618,BAsic,2025-11-23,,active,9.99,False,monthly,2026-06-15,77.19
+s_000740,u_00740,Bacic,2024-12-13,,active,9.99,True,monthly,2026-06-28,191.19
+s_000737,u_00737,BASIC,2025-02-03,,active,9.99,True,monthly,2026-06-25,173.51
+s_000189,u_00189,Basic,2025-01-22,,active,9.99,False,monthly,2026-06-15,175.74
+s_000182,u_00182,Premuim,2025-12-28,,active,39.99,True,monthly,2026-06-15,231.34
+s_000224,u_00224,Basic ,2025-12-09,,active,9.99,True,monthly,2026-06-13,63.44
+s_000303,u_00303,Basic ,2026-01-23,,active,9.99,True,yearly,2026-07-02,49.93
+s_000744,u_00744,Pro,2024-10-23,,active,19.99,True,monthly,2026-06-28,411.42
+s_000094,u_00094,Bacic,2025-10-18,2026-06-10,cancelled,9.99,True,monthly,2026-05-28,82.14
+s_000057,u_00057,Basic,2024-06-07,,active,9.99,True,monthly,2026-06-18,229.52
+s_000469,u_00469,BAsic,2025-12-09,,active,9.99,False,yearly,2026-06-12,72.84
+s_000332,u_00332,BAsic,2025-01-23,,active,9.99,True,yearly,2026-07-06,178.61
+s_000656,u_00656,BASIC,2026-01-09,,active,9.99,True,yearly,2026-06-23,53.73
+s_000700,u_00700,BAsic,2025-11-15,,active,9.99,True,monthly,2026-06-25,78.2
+s_000344,u_00344,Bacic,2024-11-15,2026-06-13,cancelled,9.99,False,monthly,2026-05-21,185.93
+s_000385,u_00385,premium,2025-12-28,,active,39.99,True,yearly,2026-07-01,254.64
+s_000692,u_00692,pro,2024-11-09,,active,19.99,True,monthly,2026-06-24,363.27
+s_000748,u_00748,basic,2024-02-18,,active,9.99,True,monthly,2026-06-20,263.96
+s_000060,u_00060,Bacic,2024-08-22,,active,9.99,True,yearly,2026-06-17,233.94
+s_000523,u_00523,PREMIUM,2024-07-06,,active,39.99,False,monthly,2026-06-22,954.6
+s_000008,u_00008,Bacic,2024-12-21,,active,9.99,True,monthly,2026-06-12,187.88
+s_000489,u_00489,pro,2025-06-12,,active,19.99,True,monthly,2026-06-24,257.31
+s_000379,u_00379,Pro ,2025-11-03,,active,19.99,True,yearly,2026-07-01,158.91
+s_000384,u_00384,pr0,2024-06-23,,active,19.99,True,monthly,2026-06-27,475.98
+s_000240,u_00240,Pro,2024-09-29,,active,19.99,False,monthly,2026-06-14,429.03
+s_000106,u_00106,BASIC,2024-07-04,2026-04-22,cancelled,9.99,True,monthly,2026-04-13,197.42
+s_000367,u_00367,premium,2024-09-06,,active,39.99,True,monthly,2026-06-16,886.71
+s_000226,u_00226,basic,2025-02-01,,active,9.99,True,yearly,2026-06-29,171.66
+s_000741,u_00741,basic,2025-08-22,,active,9.99,False,monthly,2026-06-28,97.21
+s_000778,u_00778,Basic ,2025-12-31,,active,9.99,True,monthly,2026-06-26,57.41
+s_000300,u_00300,PREMIUM,2024-04-29,,active,39.99,False,monthly,2026-06-27,1072.07
+s_000567,u_00567,basic,2025-08-07,,active,9.99,True,monthly,2026-06-17,102.77
+s_000317,u_00317,pr0,2025-07-30,,active,19.99,True,yearly,2026-07-05,233.01
+s_000466,u_00466,BASIC,2025-09-25,,active,9.99,True,monthly,2026-06-18,98.58
+s_000331,u_00331,Basic,2024-03-25,,active,9.99,True,monthly,2026-07-06,262.55
+s_000799,u_00799,BAsic,2025-01-16,,active,9.99,True,yearly,2026-06-21,172.11
+s_000543,u_00543,Premiun,2025-02-20,,active,39.99,False,yearly,2026-06-29,650.03
+s_000719,u_00719,pr0,2025-03-29,,active,19.99,True,monthly,2026-06-26,300.54
+s_000360,u_00360,BAsic,2024-05-08,2026-06-13,cancelled,9.99,True,monthly,2026-05-22,242.79
+s_000531,u_00531,premium,2026-02-17,,active,39.99,False,monthly,2026-06-28,181.3
+s_000202,u_00202,PRO,2025-06-16,,active,19.99,True,yearly,2026-07-02,240.09
+s_000322,u_00322,premium,2024-07-17,,active,39.99,True,monthly,2026-07-03,965.14
+s_000557,u_00557,Basic,2026-02-07,,active,9.99,True,monthly,2026-06-21,45.43
+s_000788,u_00788,BASIC,2024-09-21,,active,9.99,True,monthly,2026-07-02,216.36
+s_000675,u_00675,Premium,2025-01-07,,active,39.99,True,monthly,2026-07-05,685.74
+s_000183,u_00183,PREMIUM,2024-05-05,,active,39.99,True,monthly,2026-06-26,1084.58
+s_000089,u_00089,BAsic,2024-08-20,,active,9.99,True,monthly,2026-06-26,221.96
+s_000156,u_00156,Basic ,2025-05-28,,active,9.99,True,monthly,2026-06-20,139.28
+s_000216,u_00216,basic,2026-02-22,,active,9.99,True,monthly,2026-06-15,41.11
+s_000204,u_00204,Premium,2024-03-15,,active,39.99,True,monthly,2026-07-04,1069.58
+s_000651,u_00651,Basic ,2024-10-13,,active,9.99,True,yearly,2026-07-02,191.82
+s_000562,u_00562,BASIC,2025-10-20,,active,9.99,True,monthly,2026-06-19,89.09
+s_000566,u_00566,Pro ,2024-10-25,,active,19.99,False,monthly,2026-06-12,383.34
+s_000743,u_00743,Bacic,2024-10-30,,active,9.99,True,monthly,2026-06-30,184.71
+s_000372,u_00372,BAsic,2025-10-06,,active,9.99,True,monthly,2026-06-22,84.39
+s_000258,u_00258,Premiun,2025-07-05,,active,39.99,True,monthly,2026-07-03,454.88
+s_000460,u_00460,BASIC,2025-06-12,,active,9.99,True,yearly,2026-06-29,117.34
+s_000580,u_00580,Premium ,2024-04-08,,active,39.99,False,monthly,2026-06-23,1048.85
+s_000369,u_00369,pr0,2025-11-20,,active,19.99,True,monthly,2026-07-01,151.13
+s_000663,u_00663,pr0,2025-10-10,2026-05-27,cancelled,19.99,True,monthly,2026-05-21,157.98
+s_000718,u_00718,basic,2024-04-12,,active,9.99,True,monthly,2026-06-18,265.41
+s_000281,u_00281,Basic,2025-12-02,,active,9.99,True,monthly,2026-07-01,73.58
+s_000053,u_00053,Bacic,2026-01-04,,active,9.99,False,monthly,2026-07-02,58.49
+s_000301,u_00301,Basic,2024-03-16,,active,9.99,True,monthly,2026-06-25,276.63
+s_000588,u_00588,BAsic,2024-02-18,,active,9.99,True,yearly,2026-06-12,271.52
+s_000695,u_00695,PREMIUM,2026-02-16,,active,39.99,False,monthly,2026-06-28,188.51
+s_000755,u_00755,Basic ,2024-09-03,,active,9.99,True,yearly,2026-06-17,210.77
+s_000789,u_00789,Premium ,2025-10-22,,active,39.99,True,monthly,2026-07-05,329.47
+s_000197,u_00197,basic,2024-05-05,,active,9.99,True,monthly,2026-07-02,271.29
+s_000631,u_00631,Basic,2025-04-07,,active,9.99,True,monthly,2026-06-14,148.62
+s_000697,u_00697,Bacic,2025-12-10,,active,9.99,False,monthly,2026-06-17,68.9
+s_000399,u_00399,PREMIUM,2024-08-21,,active,39.99,False,monthly,2026-06-22,908.64
+s_000423,u_00423,Basic ,2025-08-09,,active,9.99,True,monthly,2026-06-12,114.3
+s_000380,u_00380,BAsic,2024-12-06,,active,9.99,True,monthly,2026-06-15,182.74
+s_000570,u_00570,Pro,2024-08-07,,active,19.99,True,monthly,2026-06-26,431.75
+s_000278,u_00278,Premuim,2025-10-09,,active,39.99,True,yearly,2026-06-29,369.59
+s_000308,u_00308,Pro,2024-04-04,,active,19.99,True,monthly,2026-06-28,497.84
+s_000798,u_00798,BASIC,2025-12-21,,active,9.99,True,monthly,2026-06-17,59.73
+s_000400,u_00400,Basic,2026-02-03,,active,9.99,True,monthly,2026-06-29,47.67
+s_000716,u_00716,Basic ,2025-12-30,,active,9.99,False,monthly,2026-07-01,63.86
+s_000606,u_00606,Bacic,2024-03-08,,active,9.99,False,monthly,2026-06-15,255.65
+s_000014,u_00014,pro,2025-07-24,2026-06-04,cancelled,19.99,False,monthly,2026-05-24,190.01
+s_000595,u_00595,Proo,2025-08-01,,active,19.99,True,monthly,2026-06-12,233.58
+s_000509,u_00509,Basic ,2024-12-09,,active,9.99,True,monthly,2026-07-02,183.27
+s_000736,u_00736,BAsic,2025-11-13,,active,9.99,False,monthly,2026-07-02,76.59
+s_000244,u_00244,BAsic,2026-01-05,2026-06-12,cancelled,9.99,True,monthly,2026-06-06,50.65
+s_000188,u_00188,Premium,2024-12-15,,active,39.99,True,monthly,2026-06-29,692.92
+s_000412,u_00412,Basic ,2024-07-23,,active,9.99,True,monthly,2026-07-01,216.89
+s_000238,u_00238,BASIC,2025-11-23,,active,9.99,True,yearly,2026-06-14,74.17
+s_000191,u_00191,basic,2024-09-07,,active,9.99,True,monthly,2026-06-15,202.96
+s_000133,u_00133,Basic,2024-06-06,,active,9.99,False,monthly,2026-06-16,232.84
+s_000033,u_00033,Basic,2025-02-21,,active,9.99,True,monthly,2026-06-30,170.77
+s_000530,u_00530,PRO,2025-06-21,,active,19.99,True,monthly,2026-07-05,244.27
+s_000251,u_00251,Pro,2025-12-08,,active,19.99,True,monthly,2026-06-24,135.51
+s_000487,u_00487,basic,2025-04-12,2026-06-17,cancelled,9.99,False,monthly,2026-06-16,135.17
+s_000725,u_00725,BAsic,2024-03-14,,active,9.99,True,monthly,2026-06-16,289.09
+s_000498,u_00498,BAsic,2024-04-02,,active,9.99,True,monthly,2026-06-15,280.89
+s_000404,u_00404,Basic,2024-12-24,2026-04-06,cancelled,9.99,True,monthly,2026-04-06,147.86
+s_000345,u_00345,basic,2025-09-17,,active,9.99,True,monthly,2026-06-23,88.52
+s_000710,u_00710,Proo,2025-11-17,,active,19.99,True,monthly,2026-07-02,153.86
+s_000274,u_00274,Basic ,2025-07-31,,active,9.99,True,yearly,2026-07-05,114.57
+s_000691,u_00691,basic,2025-05-23,,active,9.99,True,monthly,2026-06-15,128.81
+s_000677,u_00677,Basic ,2026-02-17,,active,9.99,True,monthly,2026-06-26,45.1
+s_000329,u_00329,Pro ,2026-01-12,,active,19.99,False,yearly,2026-06-16,110.0
+s_000123,u_00123,pro,2024-10-13,,active,19.99,True,yearly,2026-06-12,431.52
+s_000116,u_00116,Basic,2025-04-23,2026-05-18,cancelled,9.99,False,monthly,2026-05-08,131.05
+s_000783,u_00783,pro,2024-12-13,,active,19.99,True,yearly,2026-06-29,390.41
+s_000439,u_00439,pro,2025-05-05,,active,19.99,True,monthly,2026-07-04,265.59
+s_000361,u_00361,Pro,2025-12-02,,active,19.99,False,monthly,2026-06-13,137.34
+s_000375,u_00375,BAsic,2024-02-29,,active,9.99,True,monthly,2026-06-16,285.1
+s_000233,u_00233,Premium,2024-06-23,2026-06-06,cancelled,39.99,True,monthly,2026-05-16,915.54
+s_000391,u_00391,Pro,2025-11-27,,active,19.99,True,monthly,2026-06-28,136.9
+s_000159,u_00159,pro,2025-02-12,,active,19.99,True,monthly,2026-07-05,322.25
+s_000596,u_00596,pro,2025-05-28,,active,19.99,True,yearly,2026-06-23,244.72
+s_000151,u_00151,BASIC,2024-05-04,,active,9.99,True,monthly,2026-06-18,255.17
+s_000264,u_00264,Basic ,2025-10-25,,active,9.99,True,yearly,2026-06-25,81.86
+s_000777,u_00777,Basic ,2025-12-27,,active,9.99,False,monthly,2026-06-13,59.62
+s_000257,u_00257,PREMIUM,2025-03-31,,active,39.99,True,monthly,2026-06-20,554.75
+s_000142,u_00142,PRO,2024-12-08,2026-04-14,cancelled,19.99,True,monthly,2026-04-13,324.21
+s_000445,u_00445,Bacic,2024-12-19,2026-05-19,cancelled,9.99,True,monthly,2026-04-29,176.23
+s_000590,u_00590,Proo,2025-04-06,,active,19.99,False,yearly,2026-06-29,314.84
+s_000011,u_00011,BAsic,2025-09-06,,active,9.99,True,monthly,2026-06-21,91.93
+s_000179,u_00179,BASIC,2024-09-15,,active,9.99,False,monthly,2026-06-26,210.03
+s_000316,u_00316,Proo,2025-12-07,,active,19.99,False,monthly,2026-06-18,129.03
+s_000107,u_00107,basic,2025-05-24,2026-05-10,cancelled,9.99,False,monthly,2026-05-04,120.95
+s_000660,u_00660,BASIC,2024-03-09,,active,9.99,True,monthly,2026-06-12,296.43
+s_000211,u_00211,pro,2024-10-20,2026-05-25,cancelled,19.99,True,monthly,2026-05-13,367.65
+s_000388,u_00388,BASIC,2025-01-29,,active,9.99,True,monthly,2026-06-24,174.34
+s_000293,u_00293,Premuim,2026-01-02,,active,39.99,True,monthly,2026-06-28,244.66
+s_000362,u_00362,BASIC,2024-12-12,,active,9.99,False,monthly,2026-06-14,198.18
+s_000196,u_00196,Premuim,2025-11-03,,active,39.99,True,monthly,2026-06-18,332.02
+s_000122,u_00122,Basic ,2025-05-26,,active,9.99,True,monthly,2026-06-25,138.05
+s_000688,u_00688,pro,2026-02-16,,active,19.99,True,monthly,2026-06-25,92.99
+s_000052,u_00052,Pro,2024-08-18,,active,19.99,False,monthly,2026-06-14,463.98
+s_000280,u_00280,Pro ,2025-11-05,2026-05-03,cancelled,19.99,False,monthly,2026-05-03,116.84
+s_000208,u_00208,BASIC,2024-02-05,,active,9.99,True,monthly,2026-07-02,277.61
+s_000482,u_00482,BAsic,2025-06-06,,active,9.99,True,monthly,2026-06-18,137.16
+s_000104,u_00104,Premuim,2025-04-27,,active,39.99,False,monthly,2026-07-03,526.65
+s_000118,u_00118,basic,2024-08-20,,active,9.99,True,yearly,2026-07-02,213.57
+s_000163,u_00163,Proo,2025-11-04,,active,19.99,True,yearly,2026-07-04,158.4
+s_000713,u_00713,Premium,2025-12-01,,active,39.99,True,monthly,2026-06-21,282.72
+s_000686,u_00686,Bacic,2024-02-08,,active,9.99,False,monthly,2026-07-03,289.81
+s_000506,u_00506,Basic,2024-11-17,,active,9.99,True,monthly,2026-06-28,200.99
+s_000044,u_00044,Basic ,2024-10-22,2026-06-17,cancelled,9.99,True,yearly,2026-06-17,193.49
+s_000532,u_00532,Premiun,2025-04-14,,active,39.99,False,monthly,2026-07-03,576.72
+s_000376,u_00376,basic,2025-02-05,,active,9.99,True,monthly,2026-07-06,159.18
+s_000153,u_00153,Basic,2026-01-18,,active,9.99,True,monthly,2026-07-01,57.68
+s_000579,u_00579,Pro ,2024-07-01,,active,19.99,True,monthly,2026-06-20,445.16
+s_000357,u_00357,BASIC,2025-10-28,,active,9.99,True,yearly,2026-06-28,78.06
+s_000038,u_00038,Bacic,2025-04-25,,active,9.99,True,yearly,2026-06-17,131.43
+s_000410,u_00410,basic,2026-02-10,,active,9.99,True,monthly,2026-07-04,45.08
+s_000041,u_00041,Premium,2024-08-18,,active,39.99,False,monthly,2026-06-22,947.57
+s_000267,u_00267,Pro ,2024-09-15,,active,19.99,True,monthly,2026-06-21,450.8
+s_000787,u_00787,Basic,2025-03-28,,active,9.99,True,monthly,2026-07-03,151.43
+s_000529,u_00529,Pro ,2025-08-02,,active,19.99,True,monthly,2026-06-18,207.5
+s_000422,u_00422,BAsic,2025-08-19,,active,9.99,True,monthly,2026-06-24,96.46
+s_000473,u_00473,Bacic,2024-09-20,,active,9.99,False,monthly,2026-06-16,211.9
+s_000607,u_00607,pr0,2024-09-28,,active,19.99,True,yearly,2026-06-22,429.78
+s_000566,u_00566,Pro ,2024-10-25,,active,19.99,False,monthly,2026-06-12,383.34
+s_000629,u_00629,Premuim,2026-01-27,,active,39.99,False,monthly,2026-06-26,211.29
+s_000164,u_00164,pro,2026-02-10,,active,19.99,True,monthly,2026-07-01,98.7
+s_000092,u_00092,Pro,2024-12-20,,active,19.99,True,monthly,2026-06-12,354.84
+s_000574,u_00574,pro,2025-10-27,,active,19.99,True,monthly,2026-06-16,157.59
+s_000455,u_00455,BAsic,2024-05-29,,active,9.99,False,monthly,2026-07-03,256.58
+s_000402,u_00402,basic,2024-06-20,,active,9.99,True,monthly,2026-07-03,240.47
+s_000521,u_00521,PRO,2025-10-14,,active,19.99,True,monthly,2026-06-30,168.43
+s_000149,u_00149,Pro,2024-04-07,,active,19.99,True,monthly,2026-06-29,529.13
+s_000099,u_00099,Basic,2024-09-05,,active,9.99,False,monthly,2026-07-06,233.45
+s_000772,u_00772,Basic,2026-02-08,,active,9.99,True,monthly,2026-07-02,45.21
+s_000681,u_00681,Pro,2026-01-25,,active,19.99,True,yearly,2026-06-22,111.17
+s_000726,u_00726,pr0,2025-12-18,,active,19.99,False,monthly,2026-07-05,122.97
+s_000444,u_00444,BASIC,2024-08-30,,active,9.99,True,yearly,2026-06-25,235.86
+s_000478,u_00478,Pro ,2025-11-22,,active,19.99,False,monthly,2026-06-14,139.23
+s_000135,u_00135,Bacic,2024-11-13,,active,9.99,True,monthly,2026-06-14,197.1
+s_000209,u_00209,Basic ,2025-03-30,,active,9.99,False,monthly,2026-06-18,143.6
+s_000654,u_00654,BAsic,2025-01-26,,active,9.99,True,monthly,2026-07-04,161.79
+s_000154,u_00154,Basic ,2025-08-31,,active,9.99,False,monthly,2026-07-04,107.94
+s_000003,u_00003,premium,2026-01-25,,active,39.99,True,yearly,2026-07-06,217.73
+s_000161,u_00161,basic,2025-12-28,,active,9.99,True,monthly,2026-06-30,63.25
+s_000481,u_00481,Proo,2024-04-27,,active,19.99,False,monthly,2026-06-18,510.4
+s_000088,u_00088,BASIC,2025-09-22,,active,9.99,True,monthly,2026-06-22,90.34
+s_000309,u_00309,pro,2024-07-20,,active,19.99,True,yearly,2026-06-19,461.85
+s_000635,u_00635,BASIC,2024-08-04,2026-05-31,cancelled,9.99,False,monthly,2026-05-28,202.27
+s_000579,u_00579,Pro ,2024-07-01,,active,19.99,True,monthly,2026-06-20,445.16
+s_000758,u_00758,Premiun,2025-11-19,,active,39.99,True,yearly,2026-06-16,289.96
+s_000525,u_00525,Proo,2025-12-17,,active,19.99,True,monthly,2026-06-25,125.36
+s_000243,u_00243,BAsic,2025-01-31,2026-04-17,cancelled,9.99,True,monthly,2026-04-13,149.17
+s_000351,u_00351,Premuim,2025-05-19,,active,39.99,True,monthly,2026-06-14,496.46
+s_000676,u_00676,BAsic,2026-03-02,,active,9.99,True,monthly,2026-06-22,40.23
+s_000297,u_00297,Proo,2025-12-18,,active,19.99,True,monthly,2026-06-19,136.79
+s_000288,u_00288,pro,2025-12-07,,active,19.99,True,monthly,2026-06-29,135.54
+s_000757,u_00757,Premium,2024-10-06,,active,39.99,True,monthly,2026-06-26,886.68
+s_000602,u_00602,BASIC,2024-03-01,2026-04-24,cancelled,9.99,True,yearly,2026-04-10,243.5
+s_000312,u_00312,Proo,2025-07-22,,active,19.99,True,monthly,2026-07-03,215.61
+s_000443,u_00443,Proo,2025-07-03,,active,19.99,True,yearly,2026-06-27,255.7
+s_000232,u_00232,Pro,2025-12-04,,active,19.99,False,monthly,2026-06-26,146.17
+s_000009,u_00009,Bacic,2024-12-11,,active,9.99,True,monthly,2026-06-26,195.28
+s_000786,u_00786,Basic ,2025-01-15,,active,9.99,False,yearly,2026-07-05,185.28
+s_000650,u_00650,Bacic,2025-11-17,2026-06-27,cancelled,9.99,True,monthly,2026-06-17,77.23
+s_000721,u_00721,Bacic,2024-07-31,,active,9.99,True,monthly,2026-07-03,240.38
+s_000242,u_00242,Basic ,2024-01-27,,active,9.99,True,yearly,2026-07-01,311.28
+s_000421,u_00421,PRO,2025-09-23,,active,19.99,True,monthly,2026-07-06,189.67
+s_000518,u_00518,Pro,2025-10-27,,active,19.99,False,monthly,2026-07-06,167.32
+s_000220,u_00220,Premium,2025-01-19,,active,39.99,True,monthly,2026-06-12,715.09
+s_000016,u_00016,Pro,2024-09-03,2026-04-21,cancelled,19.99,True,monthly,2026-04-10,407.24
+s_000800,u_00800,Basic ,2024-03-16,,active,9.99,True,monthly,2026-06-24,266.78
+s_000513,u_00513,Premuim,2025-04-01,,active,39.99,True,yearly,2026-07-05,625.74
+s_000313,u_00313,Premium,2024-10-05,2026-05-09,cancelled,39.99,False,monthly,2026-04-22,796.7
+s_000647,u_00647,Pro ,2024-07-19,2026-06-24,cancelled,19.99,False,yearly,2026-06-01,445.7
+s_000544,u_00544,BASIC,2024-02-24,,active,9.99,True,monthly,2026-07-03,266.31
+s_000021,u_00021,BAsic,2025-12-22,,active,9.99,False,monthly,2026-06-14,66.14
+s_000540,u_00540,basic,2025-04-13,,active,9.99,True,monthly,2026-06-28,137.44
+s_000615,u_00615,BAsic,2024-09-09,2026-06-26,cancelled,9.99,False,monthly,2026-06-12,221.5
+s_000791,u_00791,Premium,2024-08-10,,active,39.99,True,monthly,2026-06-16,879.89
+s_000213,u_00213,BAsic,2025-08-27,,active,9.99,True,monthly,2026-06-25,104.4
+s_000500,u_00500,basic,2025-09-29,2026-04-24,cancelled,9.99,True,monthly,2026-04-02,68.94
+s_000709,u_00709,Bacic,2025-06-01,,active,9.99,False,monthly,2026-07-02,125.87
+s_000166,u_00166,BASIC,2025-01-19,,active,9.99,True,monthly,2026-06-27,169.93
+s_000210,u_00210,Basic,2025-06-15,,active,9.99,True,monthly,2026-06-24,134.55
+s_000671,u_00671,basic,2025-03-03,,active,9.99,True,monthly,2026-06-24,148.64
+s_000136,u_00136,Basic ,2025-01-24,,active,9.99,True,monthly,2026-06-20,161.18
+s_000512,u_00512,Proo,2025-03-16,,active,19.99,True,monthly,2026-06-17,325.79
+s_000441,u_00441,Bacic,2025-06-02,,active,9.99,True,monthly,2026-06-14,131.88
+s_000184,u_00184,Proo,2024-02-20,,active,19.99,True,monthly,2026-06-28,530.99
+s_000435,u_00435,PRO,2025-09-22,,active,19.99,False,monthly,2026-07-05,182.66
+s_000096,u_00096,premium,2026-02-22,,active,39.99,True,monthly,2026-06-20,164.06
+s_000689,u_00689,Premium ,2025-09-03,,active,39.99,True,yearly,2026-06-18,409.81
+s_000212,u_00212,Bacic,2024-11-17,,active,9.99,True,monthly,2026-06-15,198.6
+s_000515,u_00515,premium,2025-11-02,,active,39.99,True,monthly,2026-07-01,302.01
+s_000583,u_00583,premium,2025-11-30,,active,39.99,False,yearly,2026-06-23,284.12
+s_000724,u_00724,Premuim,2024-02-18,,active,39.99,True,monthly,2026-07-05,1154.08
+s_000594,u_00594,BASIC,2026-02-18,,active,9.99,True,monthly,2026-06-25,41.72
+s_000761,u_00761,Basic,2024-11-19,2026-06-02,cancelled,9.99,False,monthly,2026-05-11,177.13
+s_000524,u_00524,Bacic,2025-04-18,2026-06-04,cancelled,9.99,True,yearly,2026-05-14,132.84
+s_000054,u_00054,Basic,2025-03-31,,active,9.99,True,monthly,2026-06-16,146.34
+s_000659,u_00659,PRO,2024-08-31,,active,19.99,True,monthly,2026-06-24,433.16
+s_000049,u_00049,Premium,2024-02-20,2026-06-09,cancelled,39.99,True,monthly,2026-06-09,1080.36
+s_000572,u_00572,Premium,2025-08-13,,active,39.99,False,yearly,2026-07-01,435.9
+s_000643,u_00643,pro,2024-03-29,,active,19.99,False,monthly,2026-06-14,506.8
+s_000074,u_00074,pro,2024-10-31,,active,19.99,True,monthly,2026-06-17,369.25
+s_000272,u_00272,BASIC,2025-03-28,,active,9.99,True,monthly,2026-06-20,154.6
+s_000706,u_00706,pro,2025-07-02,,active,19.99,True,monthly,2026-06-20,256.23
+s_000661,u_00661,Basic,2025-12-31,,active,9.99,True,monthly,2026-07-01,57.22
+s_000008,u_00008,Bacic,2024-12-21,,active,9.99,True,monthly,2026-06-12,187.88
+s_000535,u_00535,BAsic,2024-11-15,,active,9.99,True,monthly,2026-06-20,181.69
+s_000341,u_00341,Premiun,2025-09-20,,active,39.99,True,monthly,2026-06-19,364.04
+s_000413,u_00413,Pro ,2024-10-28,,active,19.99,False,monthly,2026-07-03,377.22
+s_000493,u_00493,Bacic,2025-11-26,,active,9.99,False,yearly,2026-06-16,76.44
+s_000139,u_00139,Basic ,2025-10-18,,active,9.99,True,monthly,2026-06-27,80.88
+s_000490,u_00490,BAsic,2024-08-24,,active,9.99,True,monthly,2026-06-28,231.74
+s_000592,u_00592,Basic,2026-01-19,,active,9.99,True,monthly,2026-07-01,54.19
+s_000679,u_00679,Basic ,2025-11-20,2026-06-28,cancelled,9.99,True,monthly,2026-06-26,70.19
+s_000279,u_00279,premium,2024-11-11,,active,39.99,True,monthly,2026-07-03,810.34
+s_000646,u_00646,Bacic,2025-07-25,,active,9.99,True,yearly,2026-06-21,117.42
+s_000387,u_00387,Basic ,2024-04-11,,active,9.99,True,monthly,2026-06-27,272.03
+s_000214,u_00214,basic,2024-02-26,2026-05-25,cancelled,9.99,False,monthly,2026-05-09,266.48
+s_000701,u_00701,BAsic,2025-07-15,,active,9.99,True,yearly,2026-06-21,107.97
+s_000337,u_00337,BASIC,2025-12-07,,active,9.99,True,monthly,2026-07-02,70.29
+s_000397,u_00397,Premuim,2024-05-16,,active,39.99,True,monthly,2026-06-20,1012.89
+s_000591,u_00591,BAsic,2024-04-12,,active,9.99,True,monthly,2026-06-20,275.34
+s_000614,u_00614,basic,2025-07-27,,active,9.99,True,monthly,2026-06-22,113.85
+s_000516,u_00516,pro,2025-12-09,,active,19.99,True,monthly,2026-06-15,138.61
+s_000112,u_00112,Premiun,2024-03-21,,active,39.99,True,yearly,2026-06-15,1104.95
+s_000113,u_00113,BAsic,2025-04-11,,active,9.99,True,monthly,2026-06-30,148.18
+s_000665,u_00665,Premiun,2025-02-04,,active,39.99,True,monthly,2026-07-05,653.7
+s_000640,u_00640,Bacic,2025-09-03,,active,9.99,True,monthly,2026-07-05,105.6
+s_000613,u_00613,pro,2025-01-02,,active,19.99,True,monthly,2026-07-05,340.54
+s_000110,u_00110,Bacic,2024-08-03,2026-06-17,cancelled,9.99,True,monthly,2026-06-04,229.38
+s_000569,u_00569,pr0,2024-06-29,,active,19.99,False,monthly,2026-06-14,449.96
+s_000250,u_00250,PRO,2025-11-24,2026-05-06,cancelled,19.99,False,yearly,2026-04-18,112.23
+s_000559,u_00559,Premium,2024-07-30,,active,39.99,True,monthly,2026-06-24,857.43
+s_000223,u_00223,pr0,2024-05-03,,active,19.99,False,monthly,2026-07-05,533.92
+s_000277,u_00277,Pro ,2024-03-31,,active,19.99,True,monthly,2026-06-24,521.31
+s_000690,u_00690,Basic,2024-06-26,,active,9.99,False,monthly,2026-07-03,225.6
+s_000722,u_00722,Premium,2024-02-20,,active,39.99,True,monthly,2026-06-30,1172.73
+s_000119,u_00119,BAsic,2026-01-20,,active,9.99,False,monthly,2026-06-23,54.21
+s_000230,u_00230,pro,2025-04-04,,active,19.99,True,monthly,2026-07-03,290.67
+s_000628,u_00628,Basic,2024-11-09,2026-05-30,cancelled,9.99,False,monthly,2026-05-22,189.81
+s_000552,u_00552,BASIC,2024-04-19,2026-04-13,cancelled,9.99,False,monthly,2026-04-08,229.0
+s_000364,u_00364,Basic ,2025-09-07,,active,9.99,True,yearly,2026-06-24,98.51
+s_000545,u_00545,Basic,2026-02-19,2026-06-27,cancelled,9.99,True,monthly,2026-06-26,43.18
+s_000127,u_00127,basic,2025-02-24,,active,9.99,True,monthly,2026-06-18,157.97
+s_000622,u_00622,pro,2025-08-09,,active,19.99,True,yearly,2026-06-28,217.62
+s_000291,u_00291,PRO,2024-08-16,,active,19.99,True,monthly,2026-07-01,445.05
+s_000669,u_00669,Pro ,2025-09-03,,active,19.99,True,yearly,2026-06-19,202.73
+s_000115,u_00115,Basic ,2024-03-03,,active,9.99,True,monthly,2026-06-27,258.78
+s_000715,u_00715,Basic ,2024-05-30,,active,9.99,True,monthly,2026-06-16,242.41
+s_000729,u_00729,Bacic,2026-02-16,,active,9.99,False,monthly,2026-07-03,44.82
+s_000702,u_00702,pro,2025-12-08,,active,19.99,True,monthly,2026-06-14,133.13
+s_000248,u_00248,Pro ,2024-10-25,,active,19.99,False,monthly,2026-06-27,411.76
+s_000276,u_00276,BAsic,2026-01-28,,active,9.99,True,monthly,2026-06-13,49.74
+s_000310,u_00310,basic,2025-02-28,2026-04-10,cancelled,9.99,False,monthly,2026-04-10,135.72
+s_000028,u_00028,Basic ,2026-01-11,2026-04-21,cancelled,9.99,True,monthly,2026-04-13,30.1
+s_000680,u_00680,Basic,2025-06-17,,active,9.99,False,yearly,2026-07-05,117.3
+s_000160,u_00160,Pro ,2025-11-24,,active,19.99,False,monthly,2026-06-26,139.24
+s_000505,u_00505,Basic ,2024-06-22,,active,9.99,True,monthly,2026-06-17,250.18
+s_000446,u_00446,Pro ,2025-03-25,,active,19.99,True,monthly,2026-06-17,318.33
+s_000229,u_00229,Premuim,2026-01-08,,active,39.99,True,monthly,2026-06-23,235.61
+s_000097,u_00097,pro,2026-02-19,,active,19.99,True,monthly,2026-06-19,85.79
+s_000796,u_00796,Basic,2026-02-09,,active,9.99,True,monthly,2026-06-18,50.4
+s_000350,u_00350,Premiun,2025-02-26,,active,39.99,True,yearly,2026-07-06,668.54
+s_000270,u_00270,Premium ,2024-10-20,,active,39.99,True,monthly,2026-06-23,782.14
+s_000358,u_00358,Premiun,2024-09-20,,active,39.99,True,monthly,2026-06-19,787.94
+s_000081,u_00081,PRO,2025-11-09,,active,19.99,True,monthly,2026-06-24,156.07
+s_000571,u_00571,Premium ,2025-02-04,,active,39.99,True,monthly,2026-07-03,717.21
+s_000318,u_00318,basic,2025-09-26,,active,9.99,False,monthly,2026-07-01,97.66
+s_000227,u_00227,Basic ,2025-12-19,,active,9.99,True,monthly,2026-07-05,65.51
+s_000218,u_00218,pro,2024-03-24,,active,19.99,True,monthly,2026-06-13,542.74
+s_000186,u_00186,pro,2024-11-24,,active,19.99,True,yearly,2026-06-13,411.72
+s_000575,u_00575,Pro ,2025-04-12,,active,19.99,True,yearly,2026-06-30,308.41
+s_000165,u_00165,Basic ,2025-08-11,2026-05-22,cancelled,9.99,True,monthly,2026-05-15,89.84
+s_000559,u_00559,Premium,2024-07-30,,active,39.99,True,monthly,2026-06-24,857.43
+s_000621,u_00621,pro,2025-09-01,,active,19.99,True,monthly,2026-07-03,206.95
+s_000177,u_00177,BASIC,2025-05-20,,active,9.99,True,monthly,2026-06-18,132.05
+s_000007,u_00007,BASIC,2025-04-25,,active,9.99,True,monthly,2026-06-14,132.65
+s_000542,u_00542,Bacic,2025-11-28,,active,9.99,True,monthly,2026-06-17,68.22
+s_000662,u_00662,Basic,2025-04-28,,active,9.99,True,yearly,2026-06-25,138.58
+s_000084,u_00084,BASIC,2025-04-26,,active,9.99,True,monthly,2026-07-01,141.99
+s_000366,u_00366,pr0,2026-01-19,,active,19.99,False,monthly,2026-06-26,112.49
+s_000561,u_00561,Premium ,2025-10-12,,active,39.99,True,yearly,2026-07-05,333.68
+s_000306,u_00306,Pro,2025-12-15,,active,19.99,True,monthly,2026-07-04,127.98
+s_000534,u_00534,Pro ,2025-05-25,,active,19.99,True,monthly,2026-06-22,262.11
+s_000395,u_00395,basic,2026-01-06,,active,9.99,False,monthly,2026-07-04,62.68
+s_000167,u_00167,PRO,2025-08-17,,active,19.99,True,monthly,2026-07-01,221.65
+s_000047,u_00047,Basic,2024-05-02,,active,9.99,True,monthly,2026-06-28,272.96
+s_000015,u_00015,Basic,2025-01-11,,active,9.99,True,monthly,2026-06-13,181.62
+s_000734,u_00734,Basic ,2026-01-20,,active,9.99,True,monthly,2026-06-20,57.54
+s_000029,u_00029,Pro,2025-04-16,,active,19.99,False,monthly,2026-07-04,302.61
+s_000463,u_00463,Premium,2025-06-17,,active,39.99,True,monthly,2026-07-01,506.11
+s_000472,u_00472,PRO,2024-10-01,,active,19.99,False,monthly,2026-06-12,386.35
+s_000792,u_00792,Basic,2025-06-11,,active,9.99,False,monthly,2026-07-02,119.77
+s_000042,u_00042,pro,2025-08-20,2026-05-19,cancelled,19.99,True,monthly,2026-05-15,163.26
+s_000383,u_00383,Bacic,2024-04-01,,active,9.99,True,monthly,2026-06-28,279.07
+s_000239,u_00239,Basic,2025-09-07,,active,9.99,False,monthly,2026-06-21,95.56
+s_000440,u_00440,BASIC,2025-10-06,,active,9.99,True,monthly,2026-06-27,89.26
+s_000368,u_00368,BASIC,2024-12-04,,active,9.99,False,monthly,2026-06-19,173.76
+s_000782,u_00782,BASIC,2025-11-04,,active,9.99,True,yearly,2026-06-27,82.37
+s_000488,u_00488,Premium,2025-04-22,,active,39.99,True,monthly,2026-06-22,590.75
+s_000016,u_00016,Pro,2024-09-03,2026-04-21,cancelled,19.99,True,monthly,2026-04-10,407.24
+s_000169,u_00169,Basic,2025-04-02,,active,9.99,True,monthly,2026-06-28,155.7
+s_000138,u_00138,Premiun,2024-03-27,,active,39.99,False,yearly,2026-07-03,1068.58
+s_000609,u_00609,Premiun,2025-09-01,,active,39.99,True,monthly,2026-07-02,425.2
+s_000720,u_00720,Basic,2025-07-29,,active,9.99,True,monthly,2026-06-16,115.32
+s_000449,u_00449,BAsic,2025-11-27,,active,9.99,True,monthly,2026-06-27,70.11
+s_000763,u_00763,Proo,2024-08-11,,active,19.99,True,yearly,2026-06-19,437.29
+s_000275,u_00275,pr0,2024-09-09,,active,19.99,False,monthly,2026-07-03,412.09
+s_000193,u_00193,Premiun,2025-06-13,,active,39.99,False,monthly,2026-07-06,471.63
+s_000280,u_00280,Pro ,2025-11-05,2026-05-03,cancelled,19.99,False,monthly,2026-05-03,116.84
+s_000762,u_00762,Bacic,2024-03-21,2026-06-16,cancelled,9.99,True,monthly,2026-06-10,260.39
+s_000141,u_00141,basic,2024-08-20,2026-04-24,cancelled,9.99,False,monthly,2026-04-08,205.42
+s_000157,u_00157,pro,2025-07-31,2026-06-25,cancelled,19.99,False,yearly,2026-06-13,223.81
+s_000132,u_00132,BASIC,2026-01-16,,active,9.99,True,monthly,2026-06-23,56.82
+s_000114,u_00114,Proo,2024-10-27,,active,19.99,False,monthly,2026-06-14,373.08
+s_000611,u_00611,Pro,2026-02-23,,active,19.99,True,yearly,2026-06-12,84.34
+s_000266,u_00266,Proo,2025-01-06,,active,19.99,True,monthly,2026-06-20,379.95
+s_000324,u_00324,BAsic,2024-02-29,,active,9.99,True,monthly,2026-07-03,275.33
+s_000408,u_00408,BASIC,2024-08-21,,active,9.99,False,monthly,2026-07-02,214.76
+s_000399,u_00399,PREMIUM,2024-08-21,,active,39.99,False,monthly,2026-06-22,908.64
+s_000401,u_00401,Basic,2024-12-02,,active,9.99,True,monthly,2026-06-20,175.49
+s_000477,u_00477,Basic ,2025-08-21,,active,9.99,True,monthly,2026-06-22,96.13
+s_000594,u_00594,BASIC,2026-02-18,,active,9.99,True,monthly,2026-06-25,41.72
+s_000365,u_00365,PREMIUM,2024-08-19,,active,39.99,True,monthly,2026-06-17,902.25
+s_000026,u_00026,pro,2024-10-01,2026-05-05,cancelled,19.99,True,yearly,2026-04-18,351.36
+s_000072,u_00072,pro,2024-11-06,,active,19.99,True,monthly,2026-06-22,408.71
+s_000246,u_00246,Basic ,2025-12-03,2026-06-11,cancelled,9.99,False,monthly,2026-06-01,60.62
+s_000031,u_00031,Bacic,2025-04-03,,active,9.99,True,monthly,2026-06-12,153.39
+s_000129,u_00129,BAsic,2025-05-19,,active,9.99,False,monthly,2026-06-29,135.93
+s_000147,u_00147,pro,2025-04-29,,active,19.99,True,monthly,2026-06-26,266.31
+s_000768,u_00768,Basic ,2025-11-20,,active,9.99,True,monthly,2026-06-13,72.77
+s_000770,u_00770,BAsic,2025-11-04,2026-06-30,cancelled,9.99,False,monthly,2026-06-16,73.4
+s_000155,u_00155,Basic,2025-12-26,,active,9.99,True,monthly,2026-06-30,60.64
+s_000775,u_00775,BAsic,2025-12-27,,active,9.99,True,monthly,2026-06-13,58.06
+s_000641,u_00641,pro,2024-11-07,,active,19.99,True,monthly,2026-06-26,386.96
+s_000692,u_00692,pro,2024-11-09,,active,19.99,True,monthly,2026-06-24,363.27
+s_000415,u_00415,Proo,2025-02-03,,active,19.99,True,monthly,2026-06-20,340.69
+s_000349,u_00349,BASIC,2024-03-21,,active,9.99,False,monthly,2026-07-06,275.52
+s_000326,u_00326,BASIC,2026-01-20,,active,9.99,True,monthly,2026-07-01,52.47
+s_000647,u_00647,Pro ,2024-07-19,2026-06-24,cancelled,19.99,False,yearly,2026-06-01,445.7
+s_000249,u_00249,Basic ,2024-12-06,,active,9.99,True,monthly,2026-07-04,193.16
+s_000409,u_00409,basic,2026-02-20,,active,9.99,True,yearly,2026-06-30,43.95
+s_000453,u_00453,Bacic,2025-06-13,,active,9.99,True,monthly,2026-06-17,117.03
+s_000287,u_00287,Pro,2024-01-31,,active,19.99,False,yearly,2026-06-30,542.42
+s_000299,u_00299,BASIC,2024-11-01,2026-05-18,cancelled,9.99,False,monthly,2026-04-26,177.44
+s_000067,u_00067,Basic ,2025-10-31,,active,9.99,True,monthly,2026-06-17,77.79
+s_000336,u_00336,Pro ,2025-08-31,,active,19.99,True,monthly,2026-06-23,202.83
+s_000483,u_00483,basic,2025-09-28,,active,9.99,False,monthly,2026-06-18,85.64
+s_000091,u_00091,basic,2025-06-16,,active,9.99,True,monthly,2026-06-19,131.92
+s_000610,u_00610,PRO,2024-11-08,,active,19.99,False,yearly,2026-07-01,391.65
+s_000225,u_00225,BASIC,2025-03-04,,active,9.99,True,monthly,2026-06-16,156.45
+s_000497,u_00497,BASIC,2024-10-08,,active,9.99,False,monthly,2026-07-01,221.91
+s_000727,u_00727,BASIC,2025-12-07,,active,9.99,True,yearly,2026-07-03,67.33
+s_000292,u_00292,Bacic,2025-05-05,,active,9.99,False,monthly,2026-06-12,141.87
+s_000494,u_00494,Basic ,2025-04-07,,active,9.99,True,monthly,2026-07-03,155.71
+s_000578,u_00578,Basic ,2025-02-03,,active,9.99,False,monthly,2026-07-02,176.07
+s_000144,u_00144,Basic ,2025-04-05,,active,9.99,False,monthly,2026-07-01,149.38
+s_000406,u_00406,Bacic,2025-10-01,,active,9.99,True,monthly,2026-07-02,92.41
+s_000050,u_00050,BASIC,2024-02-18,,active,9.99,False,monthly,2026-06-23,275.98
+s_000437,u_00437,Pro ,2025-01-01,,active,19.99,True,yearly,2026-07-03,343.6
+s_000070,u_00070,basic,2024-10-10,,active,9.99,True,monthly,2026-06-14,217.58
+s_000093,u_00093,PRO,2024-05-09,,active,19.99,True,yearly,2026-06-16,493.93
+s_000438,u_00438,BASIC,2025-07-27,,active,9.99,True,monthly,2026-06-13,108.59
+s_000283,u_00283,PRO,2024-06-05,,active,19.99,True,monthly,2026-07-04,486.02
+s_000330,u_00330,Basic,2025-09-15,,active,9.99,False,yearly,2026-07-01,90.35
+s_000262,u_00262,PRO,2024-12-15,2026-06-26,cancelled,19.99,True,yearly,2026-06-17,354.95
+s_000774,u_00774,Basic,2024-08-28,,active,9.99,False,monthly,2026-07-02,207.51
+s_000784,u_00784,BASIC,2026-01-21,2026-05-18,cancelled,9.99,False,monthly,2026-05-17,39.46
+s_000448,u_00448,Basic ,2025-01-12,,active,9.99,True,monthly,2026-06-27,177.48
+s_000315,u_00315,premium,2025-02-14,,active,39.99,True,monthly,2026-07-03,706.01
+s_000311,u_00311,premium,2025-11-08,,active,39.99,True,monthly,2026-06-18,321.53
+s_000045,u_00045,BASIC,2024-11-30,,active,9.99,True,monthly,2026-06-16,193.73
+s_000712,u_00712,basic,2025-07-16,,active,9.99,True,monthly,2026-06-25,121.84
+s_000417,u_00417,Basic ,2025-07-20,,active,9.99,True,monthly,2026-07-02,109.87
+s_000617,u_00617,Basic,2025-05-01,,active,9.99,True,monthly,2026-07-02,136.02
+s_000174,u_00174,Bacic,2025-11-15,2026-04-27,cancelled,9.99,False,monthly,2026-04-17,50.78
+s_000110,u_00110,Bacic,2024-08-03,2026-06-17,cancelled,9.99,True,monthly,2026-06-04,229.38
+s_000184,u_00184,Proo,2024-02-20,,active,19.99,True,monthly,2026-06-28,530.99
+s_000730,u_00730,premium,2024-12-20,2026-04-29,cancelled,39.99,False,monthly,2026-04-26,670.29
+s_000429,u_00429,PRO,2025-02-11,,active,19.99,True,monthly,2026-06-21,345.06
+s_000522,u_00522,Basic,2024-12-11,,active,9.99,True,monthly,2026-06-19,192.09
+s_000511,u_00511,PREMIUM,2024-05-16,,active,39.99,True,monthly,2026-06-25,1048.82
+s_000678,u_00678,PREMIUM,2024-07-21,,active,39.99,True,monthly,2026-06-29,913.58
+s_000606,u_00606,Bacic,2024-03-08,,active,9.99,False,monthly,2026-06-15,255.65
+s_000668,u_00668,Bacic,2025-11-11,,active,9.99,True,monthly,2026-06-30,80.11
+s_000143,u_00143,basic,2024-04-27,,active,9.99,True,monthly,2026-06-27,273.68
+s_000260,u_00260,Pro,2024-09-21,,active,19.99,True,monthly,2026-06-26,453.31
+s_000526,u_00526,PRO,2025-09-24,,active,19.99,True,monthly,2026-06-23,177.92
+s_000396,u_00396,Premium,2025-10-26,,active,39.99,False,monthly,2026-06-17,354.01
+s_000086,u_00086,Pro,2025-04-29,,active,19.99,False,yearly,2026-06-15,286.2
+s_000254,u_00254,Bacic,2024-10-09,,active,9.99,True,monthly,2026-06-18,210.55
+s_000021,u_00021,BAsic,2025-12-22,,active,9.99,False,monthly,2026-06-14,66.14
+s_000742,u_00742,Basic ,2024-01-31,,active,9.99,True,monthly,2026-06-17,309.28
+s_000075,u_00075,pr0,2025-03-10,,active,19.99,True,monthly,2026-06-20,291.02
+s_000636,u_00636,BAsic,2024-10-20,,active,9.99,True,monthly,2026-07-02,200.69
+s_000062,u_00062,pr0,2025-10-27,,active,19.99,False,monthly,2026-06-28,172.42
+s_000458,u_00458,Basic ,2024-12-09,,active,9.99,True,monthly,2026-06-30,182.83
+s_000206,u_00206,pro,2025-12-20,,active,19.99,True,monthly,2026-06-14,132.08
+s_000597,u_00597,PRO,2024-12-03,,active,19.99,True,monthly,2026-06-13,370.5
+s_000431,u_00431,Basic,2024-05-01,,active,9.99,False,monthly,2026-06-17,245.56
+s_000427,u_00427,Premium,2025-04-12,,active,39.99,True,monthly,2026-06-12,580.62
+s_000347,u_00347,BASIC,2025-09-10,,active,9.99,False,monthly,2026-06-15,103.58
+s_000056,u_00056,Pro ,2025-10-25,,active,19.99,False,yearly,2026-07-05,154.4
+s_000087,u_00087,pr0,2024-08-17,,active,19.99,True,monthly,2026-06-19,473.49
+s_000373,u_00373,Basic ,2025-03-14,,active,9.99,False,monthly,2026-07-02,160.69
+s_000201,u_00201,BASIC,2026-01-05,,active,9.99,True,monthly,2026-06-19,57.15
+s_000268,u_00268,Basic,2024-05-10,,active,9.99,True,yearly,2026-06-14,268.95
+s_000732,u_00732,PRO,2024-10-02,2026-04-07,cancelled,19.99,False,yearly,2026-03-31,360.93
+s_000419,u_00419,Basic,2024-08-09,,active,9.99,True,monthly,2026-07-04,226.85
+s_000608,u_00608,pro,2024-08-14,,active,19.99,True,monthly,2026-07-06,456.76
+s_000222,u_00222,BAsic,2024-10-03,,active,9.99,False,monthly,2026-06-25,223.19
+s_000733,u_00733,Bacic,2025-10-13,,active,9.99,True,monthly,2026-06-28,80.21
+s_000394,u_00394,Basic,2024-11-08,,active,9.99,True,monthly,2026-06-22,195.42
+s_000667,u_00667,pr0,2024-10-09,2026-04-24,cancelled,19.99,False,yearly,2026-04-20,386.81
+s_000017,u_00017,BASIC,2024-07-09,,active,9.99,True,monthly,2026-06-23,236.56
+s_000305,u_00305,PRO,2025-11-24,,active,19.99,False,monthly,2026-06-28,147.6
+s_000626,u_00626,BAsic,2024-09-24,2026-06-03,cancelled,9.99,True,monthly,2026-05-14,186.56
+s_000117,u_00117,pro,2025-11-02,,active,19.99,False,monthly,2026-06-25,150.12
+s_000705,u_00705,Basic,2025-08-14,,active,9.99,False,monthly,2026-06-21,100.95
+s_000386,u_00386,PRO,2025-08-15,,active,19.99,False,yearly,2026-06-13,218.94
+s_000305,u_00305,PRO,2025-11-24,,active,19.99,False,monthly,2026-06-28,147.6
+s_000754,u_00754,Proo,2024-05-23,,active,19.99,True,monthly,2026-06-25,529.32
+s_000684,u_00684,Bacic,2025-11-24,,active,9.99,True,monthly,2026-07-05,71.88
+s_000447,u_00447,Bacic,2026-01-19,,active,9.99,True,monthly,2026-06-23,53.42
+s_000137,u_00137,BAsic,2025-08-15,,active,9.99,True,monthly,2026-06-25,108.82
+s_000389,u_00389,pr0,2024-05-17,2026-05-20,cancelled,19.99,False,monthly,2026-05-15,484.33
+s_000073,u_00073,Pro ,2024-03-07,2026-05-23,cancelled,19.99,True,monthly,2026-05-02,492.35
+s_000558,u_00558,BASIC,2024-12-06,,active,9.99,True,monthly,2026-06-25,179.85
+s_000499,u_00499,Basic ,2024-07-19,2026-05-16,cancelled,9.99,True,yearly,2026-05-03,226.04
+s_000541,u_00541,Bacic,2025-08-03,,active,9.99,True,monthly,2026-06-29,113.89
+s_000771,u_00771,Premium ,2024-02-12,,active,39.99,True,monthly,2026-06-18,1075.53
+s_000403,u_00403,Basic,2024-11-06,,active,9.99,True,monthly,2026-06-21,205.79
+s_000683,u_00683,Pro ,2024-12-24,,active,19.99,True,monthly,2026-06-16,343.4
+s_000670,u_00670,BASIC,2024-09-04,,active,9.99,True,monthly,2026-06-16,205.91
+s_000648,u_00648,PRO,2025-04-24,,active,19.99,True,monthly,2026-06-21,281.76
+s_000653,u_00653,BASIC,2025-09-11,2026-05-23,cancelled,9.99,False,monthly,2026-05-23,85.07
+s_000146,u_00146,PRO,2025-11-25,,active,19.99,False,monthly,2026-06-27,137.96
+s_000420,u_00420,Premiun,2024-08-17,2026-05-10,cancelled,39.99,True,monthly,2026-05-06,873.48
+s_000603,u_00603,Basic,2025-10-21,,active,9.99,True,yearly,2026-06-24,80.89
+s_000687,u_00687,PREMIUM,2026-02-09,,active,39.99,False,monthly,2026-07-05,194.25
+s_000517,u_00517,Pro ,2024-06-05,,active,19.99,True,monthly,2026-06-28,523.84
+s_000231,u_00231,Pro ,2025-07-20,,active,19.99,True,yearly,2026-06-14,222.39
+s_000219,u_00219,Basic,2025-06-03,,active,9.99,True,yearly,2026-06-20,134.66
+s_000190,u_00190,BASIC,2024-01-30,,active,9.99,True,monthly,2026-07-04,283.57
+s_000066,u_00066,basic,2025-04-08,,active,9.99,True,monthly,2026-06-20,151.91
+s_000508,u_00508,pro,2024-07-18,,active,19.99,True,monthly,2026-06-17,455.63
+s_000256,u_00256,Pro,2025-01-04,,active,19.99,True,monthly,2026-06-29,371.18
+s_000176,u_00176,Basic ,2024-03-20,,active,9.99,True,monthly,2026-06-27,279.22
+s_000215,u_00215,Basic,2024-12-25,,active,9.99,True,monthly,2026-06-23,173.6
+s_000335,u_00335,Pro,2024-06-11,,active,19.99,False,yearly,2026-06-15,499.69
+s_000178,u_00178,Premuim,2026-01-15,,active,39.99,True,yearly,2026-06-12,215.77
+s_000082,u_00082,Basic,2024-07-21,,active,9.99,True,monthly,2026-06-12,228.35
+s_000708,u_00708,premium,2026-01-11,,active,39.99,True,monthly,2026-06-24,239.97
+s_000374,u_00374,basic,2026-02-27,,active,9.99,True,monthly,2026-07-01,42.69
+s_000752,u_00752,Premiun,2025-11-24,,active,39.99,True,monthly,2026-06-28,296.17
+s_000253,u_00253,BAsic,2025-09-16,,active,9.99,True,monthly,2026-07-04,94.27
+s_000723,u_00723,basic,2026-01-10,2026-06-27,cancelled,9.99,True,monthly,2026-06-06,53.58
+s_000584,u_00584,Basic ,2024-03-31,,active,9.99,True,yearly,2026-06-15,262.46
+s_000485,u_00485,Basic,2024-10-14,2026-04-14,cancelled,9.99,True,yearly,2026-04-12,176.42
+s_000236,u_00236,Proo,2024-05-31,,active,19.99,True,monthly,2026-06-14,502.47
+s_000440,u_00440,BASIC,2025-10-06,,active,9.99,True,monthly,2026-06-27,89.26
+s_000172,u_00172,BAsic,2025-10-14,,active,9.99,True,monthly,2026-06-14,82.19
+s_000020,u_00020,Bacic,2025-12-06,2026-04-08,cancelled,9.99,True,monthly,2026-03-31,38.33
+s_000649,u_00649,Basic,2026-01-11,,active,9.99,True,monthly,2026-06-26,54.23
+s_000501,u_00501,Premuim,2025-10-22,,active,39.99,True,monthly,2026-06-23,358.85
+s_000203,u_00203,Basic ,2025-05-03,2026-05-29,cancelled,9.99,False,monthly,2026-05-12,132.55
+s_000465,u_00465,Basic ,2025-06-22,,active,9.99,True,monthly,2026-06-25,124.8
+s_000745,u_00745,Bacic,2025-12-01,,active,9.99,True,monthly,2026-07-03,66.9
+s_000442,u_00442,Basic ,2025-06-10,,active,9.99,True,monthly,2026-06-13,127.58
+s_000632,u_00632,Pro,2024-11-23,,active,19.99,True,monthly,2026-06-24,395.3
+s_000703,u_00703,pr0,2025-12-10,2026-04-13,cancelled,19.99,True,monthly,2026-04-06,79.21
+s_000170,u_00170,Bacic,2025-01-19,,active,9.99,True,monthly,2026-06-28,165.52
+s_000563,u_00563,basic,2025-10-07,2026-06-18,cancelled,9.99,True,monthly,2026-05-30,82.68
+s_000055,u_00055,basic,2025-09-29,,active,9.99,True,yearly,2026-06-22,84.46
+s_000502,u_00502,BASIC,2024-04-24,,active,9.99,True,monthly,2026-06-22,258.37
+s_000338,u_00338,Pro,2025-01-12,,active,19.99,True,monthly,2026-06-29,360.06
+s_000245,u_00245,Premuim,2024-05-03,,active,39.99,True,monthly,2026-06-25,1000.4
+s_000378,u_00378,Basic ,2025-12-12,,active,9.99,True,monthly,2026-06-21,69.32
+s_000066,u_00066,basic,2025-04-08,,active,9.99,True,monthly,2026-06-20,151.91
+s_000036,u_00036,Basic ,2024-12-22,,active,9.99,False,monthly,2026-06-23,170.61
+s_000756,u_00756,pro,2025-06-17,2026-06-04,cancelled,19.99,False,monthly,2026-05-15,230.62
+s_000536,u_00536,PREMIUM,2025-11-16,2026-06-02,cancelled,39.99,False,monthly,2026-05-28,276.82
+s_000491,u_00491,Basic ,2025-10-30,,active,9.99,True,monthly,2026-06-20,79.66
+s_000464,u_00464,Pro ,2026-02-19,,active,19.99,False,yearly,2026-06-20,93.54
+s_000412,u_00412,Basic ,2024-07-23,,active,9.99,True,monthly,2026-07-01,216.89
+s_000519,u_00519,Premium ,2025-03-06,,active,39.99,True,monthly,2026-06-24,671.47
+s_000294,u_00294,Proo,2025-07-31,,active,19.99,True,monthly,2026-06-17,205.75
+s_000227,u_00227,Basic ,2025-12-19,,active,9.99,True,monthly,2026-07-05,65.51
+s_000085,u_00085,Bacic,2025-02-06,,active,9.99,False,monthly,2026-07-03,166.44
+s_000507,u_00507,Basic ,2025-12-10,,active,9.99,False,monthly,2026-06-30,64.32
+s_000589,u_00589,Basic ,2026-01-05,,active,9.99,True,monthly,2026-06-18,56.69
+s_000284,u_00284,pro,2025-10-09,,active,19.99,True,monthly,2026-06-12,183.01
+s_000682,u_00682,premium,2025-08-13,,active,39.99,True,monthly,2026-06-26,432.13
+s_000101,u_00101,Premiun,2024-11-26,,active,39.99,True,monthly,2026-06-16,731.23
+s_000739,u_00739,BAsic,2024-07-16,2026-05-03,cancelled,9.99,True,monthly,2026-04-20,224.3
+s_000322,u_00322,premium,2024-07-17,,active,39.99,True,monthly,2026-07-03,965.14
+s_000432,u_00432,Premuim,2024-09-19,,active,39.99,False,yearly,2026-06-18,793.42
+s_000316,u_00316,Proo,2025-12-07,,active,19.99,False,monthly,2026-06-18,129.03
+s_000468,u_00468,BAsic,2025-10-12,,active,9.99,False,monthly,2026-06-29,85.33
+s_000340,u_00340,basic,2025-11-11,2026-04-18,cancelled,9.99,False,yearly,2026-04-14,50.09
+s_000051,u_00051,PREMIUM,2024-03-17,,active,39.99,True,yearly,2026-07-02,1146.15
+s_000210,u_00210,Basic,2025-06-15,,active,9.99,True,monthly,2026-06-24,134.55
+s_000766,u_00766,basic,2025-03-15,,active,9.99,True,monthly,2026-06-27,158.32
+s_000251,u_00251,Pro,2025-12-08,,active,19.99,True,monthly,2026-06-24,135.51
+s_000168,u_00168,Pro ,2025-07-20,,active,19.99,True,monthly,2026-07-05,244.6
+s_000753,u_00753,Premium,2026-01-05,,active,39.99,True,monthly,2026-06-26,237.22
+s_000393,u_00393,PRO,2024-06-23,,active,19.99,True,monthly,2026-06-26,517.19
+s_000134,u_00134,Basic,2025-05-21,,active,9.99,True,monthly,2026-06-17,140.83
+s_000602,u_00602,BASIC,2024-03-01,2026-04-24,cancelled,9.99,True,yearly,2026-04-10,243.5
+s_000002,u_00002,Premiun,2024-01-30,,active,39.99,True,monthly,2026-06-26,1232.6
+s_000760,u_00760,Basic ,2025-02-22,,active,9.99,True,yearly,2026-06-23,171.7
+s_000006,u_00006,Bacic,2026-02-26,2026-06-20,cancelled,9.99,False,monthly,2026-06-01,34.85
+s_000111,u_00111,Premium,2025-09-13,,active,39.99,True,monthly,2026-07-03,400.74
+s_000630,u_00630,pr0,2025-04-09,,active,19.99,True,monthly,2026-06-28,288.98
+s_000199,u_00199,pr0,2025-01-23,,active,19.99,True,monthly,2026-06-12,335.06
+s_000414,u_00414,PREMIUM,2024-12-24,,active,39.99,False,monthly,2026-06-15,694.16
+s_000079,u_00079,Basic,2024-12-13,,active,9.99,True,monthly,2026-07-01,171.28
+s_000175,u_00175,Basic ,2025-03-08,,active,9.99,True,monthly,2026-06-21,167.18
+s_000707,u_00707,Proo,2024-06-23,,active,19.99,True,monthly,2026-06-13,519.67
+s_000048,u_00048,pr0,2024-03-08,,active,19.99,True,monthly,2026-07-04,572.13
+s_000392,u_00392,basic,2025-04-06,,active,9.99,True,monthly,2026-07-06,155.86
+s_000035,u_00035,Basic,2024-07-27,,active,9.99,True,monthly,2026-06-14,225.49
+s_000573,u_00573,Pro,2024-03-16,,active,19.99,True,monthly,2026-06-29,582.47
+s_000565,u_00565,Basic ,2025-10-02,,active,9.99,False,monthly,2026-06-28,89.26
+s_000694,u_00694,BAsic,2024-09-02,,active,9.99,True,yearly,2026-06-13,215.81
+s_000024,u_00024,Pro,2024-05-18,,active,19.99,False,yearly,2026-06-19,488.49
+s_000750,u_00750,Basic,2024-10-16,,active,9.99,True,monthly,2026-06-25,219.39
+s_000263,u_00263,Basic ,2025-01-02,,active,9.99,True,monthly,2026-07-05,175.94
+s_000022,u_00022,pr0,2025-11-22,,active,19.99,True,monthly,2026-06-30,154.72
+s_000181,u_00181,Bacic,2025-11-13,,active,9.99,False,monthly,2026-07-03,78.81
+s_000068,u_00068,pr0,2024-06-09,,active,19.99,True,monthly,2026-06-28,493.26
+s_000644,u_00644,Proo,2025-07-23,,active,19.99,False,monthly,2026-06-12,234.34
+s_000625,u_00625,Pro,2025-06-21,,active,19.99,False,monthly,2026-07-02,262.94
+s_000672,u_00672,BAsic,2024-08-09,,active,9.99,True,monthly,2026-07-05,229.96
+s_000187,u_00187,Basic,2024-11-07,,active,9.99,True,monthly,2026-06-26,187.38
+s_000140,u_00140,Basic,2025-12-16,,active,9.99,True,monthly,2026-06-19,70.24
+s_000339,u_00339,BASIC,2024-02-11,2026-04-25,cancelled,9.99,True,monthly,2026-04-06,279.49
+s_000652,u_00652,Bacic,2025-11-13,,active,9.99,True,yearly,2026-07-04,78.05
+s_000030,u_00030,BAsic,2026-01-24,,active,9.99,False,yearly,2026-06-26,50.93
+s_000398,u_00398,PREMIUM,2024-02-10,,active,39.99,True,monthly,2026-06-29,1179.16
+s_000221,u_00221,Premuim,2024-12-01,,active,39.99,False,monthly,2026-06-27,804.36
+s_000426,u_00426,pro,2024-07-31,,active,19.99,True,monthly,2026-06-16,460.47
+s_000454,u_00454,BAsic,2025-09-20,,active,9.99,False,monthly,2026-06-24,95.4
+s_000418,u_00418,Basic,2026-02-08,,active,9.99,True,monthly,2026-06-28,50.72
+s_000781,u_00781,BAsic,2025-08-15,,active,9.99,True,monthly,2026-06-22,106.12
+s_000059,u_00059,Proo,2025-02-17,2026-04-21,cancelled,19.99,True,monthly,2026-03-28,263.21
+s_000039,u_00039,Basic ,2026-01-16,,active,9.99,True,monthly,2026-06-19,53.15
+s_000504,u_00504,pro,2026-01-31,,active,19.99,True,monthly,2026-07-04,104.45
+s_000354,u_00354,Basic ,2024-11-11,2026-05-09,cancelled,9.99,True,monthly,2026-04-20,176.81
+s_000424,u_00424,pr0,2024-04-26,,active,19.99,True,monthly,2026-06-20,549.01
+s_000793,u_00793,Basic,2025-09-25,2026-05-21,cancelled,9.99,True,monthly,2026-05-19,80.8
+s_000390,u_00390,Basic,2025-01-16,,active,9.99,True,monthly,2026-06-22,174.52
+s_000735,u_00735,BAsic,2026-02-21,,active,9.99,False,yearly,2026-06-24,45.99
+s_000751,u_00751,BASIC,2025-07-06,2026-04-28,cancelled,9.99,True,monthly,2026-04-09,92.8
+s_000722,u_00722,Premium,2024-02-20,,active,39.99,True,monthly,2026-06-30,1172.73
+s_000298,u_00298,PRO,2024-03-01,,active,19.99,True,monthly,2026-06-15,588.44
+s_000100,u_00100,Bacic,2025-06-14,,active,9.99,False,yearly,2026-06-12,124.31
+s_000547,u_00547,BAsic,2025-01-26,2026-05-03,cancelled,9.99,False,yearly,2026-05-02,144.3
+s_000025,u_00025,Bacic,2025-11-03,,active,9.99,True,monthly,2026-07-03,76.7
+s_000192,u_00192,Pro,2026-01-27,,active,19.99,False,monthly,2026-06-23,96.01
+s_000255,u_00255,Premium,2025-05-28,,active,39.99,False,yearly,2026-06-26,523.03
+s_000286,u_00286,PRO,2024-06-23,,active,19.99,True,monthly,2026-06-13,482.95
+s_000759,u_00759,Basic,2025-12-22,,active,9.99,True,monthly,2026-06-15,63.04
+s_000769,u_00769,basic,2025-12-07,,active,9.99,True,monthly,2026-06-17,63.37
+s_000171,u_00171,Premuim,2025-07-15,,active,39.99,True,yearly,2026-06-14,435.11
+s_000295,u_00295,Basic,2025-01-30,,active,9.99,False,yearly,2026-07-01,158.93
+s_000599,u_00599,Basic,2025-12-11,,active,9.99,True,monthly,2026-06-15,72.37
+s_000237,u_00237,basic,2024-05-12,,active,9.99,False,monthly,2026-06-20,243.62
+s_000746,u_00746,premium,2024-09-28,,active,39.99,True,monthly,2026-06-19,867.91
+s_000065,u_00065,BASIC,2025-02-02,,active,9.99,True,monthly,2026-06-22,158.76
+s_000259,u_00259,BAsic,2025-07-17,,active,9.99,True,yearly,2026-06-24,111.34
+s_000348,u_00348,PREMIUM,2024-04-01,2026-05-24,cancelled,39.99,True,yearly,2026-05-04,950.06
+s_000321,u_00321,Bacic,2025-12-26,,active,9.99,True,yearly,2026-06-20,61.01
+s_000095,u_00095,Basic ,2024-12-20,,active,9.99,True,monthly,2026-06-30,185.17
+s_000693,u_00693,Basic ,2025-11-05,,active,9.99,True,monthly,2026-06-24,78.35
+s_000527,u_00527,PREMIUM,2025-11-27,,active,39.99,True,monthly,2026-07-05,273.31
+s_000560,u_00560,BASIC,2025-09-13,,active,9.99,False,monthly,2026-06-20,95.64
+s_000269,u_00269,BAsic,2024-04-03,,active,9.99,True,monthly,2026-07-04,255.14
+s_000448,u_00448,Basic ,2025-01-12,,active,9.99,True,monthly,2026-06-27,177.48
+s_000480,u_00480,basic,2024-11-25,,active,9.99,False,yearly,2026-07-06,183.74
+s_000776,u_00776,Bacic,2024-05-15,,active,9.99,True,monthly,2026-06-21,249.31
+s_000273,u_00273,PRO,2024-08-31,,active,19.99,True,yearly,2026-06-15,417.85
+s_000738,u_00738,Pro ,2026-02-23,,active,19.99,True,monthly,2026-06-25,81.14
+s_000538,u_00538,Proo,2024-08-29,,active,19.99,True,yearly,2026-06-27,449.99
+s_000371,u_00371,pr0,2024-08-14,,active,19.99,False,monthly,2026-06-15,467.77
+s_000450,u_00450,Premiun,2025-07-31,,active,39.99,False,monthly,2026-06-20,461.22
+s_000109,u_00109,Proo,2025-01-31,,active,19.99,True,yearly,2026-06-12,316.39
+s_000642,u_00642,pr0,2025-11-27,,active,19.99,False,monthly,2026-06-16,143.78
+s_000185,u_00185,BAsic,2025-01-12,,active,9.99,True,yearly,2026-06-21,168.92
+s_000090,u_00090,BASIC,2025-10-28,2026-05-08,cancelled,9.99,False,monthly,2026-04-15,57.58
+s_000105,u_00105,Pro ,2025-08-12,,active,19.99,False,yearly,2026-06-13,224.93
+s_000370,u_00370,Basic ,2026-02-28,,active,9.99,True,monthly,2026-06-13,40.42
+s_000657,u_00657,Proo,2024-12-05,,active,19.99,True,yearly,2026-06-25,378.78
+s_000247,u_00247,Proo,2026-01-11,,active,19.99,True,yearly,2026-07-05,118.23
+s_000673,u_00673,Bacic,2025-01-09,,active,9.99,False,monthly,2026-06-18,176.31
+s_000601,u_00601,basic,2024-03-20,,active,9.99,True,monthly,2026-06-17,275.63
+s_000098,u_00098,Basic,2024-08-05,,active,9.99,True,monthly,2026-06-23,222.14
+s_000019,u_00019,BASIC,2024-04-20,,active,9.99,True,monthly,2026-06-22,255.44
+s_000696,u_00696,Pro ,2024-09-12,,active,19.99,True,monthly,2026-07-01,408.06
+s_000103,u_00103,Bacic,2025-09-14,,active,9.99,True,monthly,2026-06-24,94.38
+s_000457,u_00457,Basic ,2026-01-25,,active,9.99,True,monthly,2026-06-28,52.68
+s_000542,u_00542,Bacic,2025-11-28,,active,9.99,True,monthly,2026-06-17,68.22
+s_000773,u_00773,Basic ,2024-03-23,,active,9.99,True,monthly,2026-06-29,277.53
+s_000533,u_00533,Pro ,2024-03-28,,active,19.99,True,monthly,2026-06-15,568.67
+s_000271,u_00271,Basic,2024-07-26,,active,9.99,True,yearly,2026-06-28,233.93
+s_000548,u_00548,Premium ,2024-09-05,,active,39.99,False,monthly,2026-06-14,817.21
+s_000484,u_00484,Basic,2024-04-08,,active,9.99,True,monthly,2026-06-20,262.77
+s_000145,u_00145,Basic,2025-12-10,,active,9.99,True,monthly,2026-06-15,66.92
+s_000416,u_00416,Pro,2026-01-14,,active,19.99,True,monthly,2026-06-14,111.38
+s_000046,u_00046,Pro ,2025-12-08,,active,19.99,True,monthly,2026-06-22,132.02
+s_000600,u_00600,Basic ,2025-11-26,,active,9.99,True,monthly,2026-07-02,76.67
+s_000381,u_00381,pro,2024-12-21,,active,19.99,True,monthly,2026-06-23,346.39
+s_000353,u_00353,Basic,2025-11-17,,active,9.99,True,monthly,2026-06-18,73.58
+s_000717,u_00717,basic,2024-07-19,,active,9.99,True,monthly,2026-07-02,246.05
+s_000612,u_00612,Basic,2024-10-17,,active,9.99,False,monthly,2026-06-26,203.93
+s_000795,u_00795,Bacic,2025-01-03,,active,9.99,True,monthly,2026-07-01,183.04
+s_000356,u_00356,PRO,2024-09-25,,active,19.99,True,monthly,2026-07-05,431.3
+s_000296,u_00296,Pro,2024-07-02,,active,19.99,True,monthly,2026-06-13,465.96
+s_000357,u_00357,BASIC,2025-10-28,,active,9.99,True,yearly,2026-06-28,78.06
+s_000452,u_00452,basic,2026-01-01,,active,9.99,True,yearly,2026-07-05,57.76
+s_000492,u_00492,Pro,2024-02-20,,active,19.99,True,yearly,2026-06-14,572.52
+s_000456,u_00456,BAsic,2024-05-28,,active,9.99,False,monthly,2026-07-04,230.6
+s_000328,u_00328,BASIC,2024-12-24,,active,9.99,True,monthly,2026-06-18,192.74
+s_000564,u_00564,Bacic,2026-01-18,,active,9.99,False,yearly,2026-06-29,52.62
+s_000475,u_00475,Pro,2024-04-13,,active,19.99,True,monthly,2026-06-18,536.88
+s_000173,u_00173,Premiun,2025-05-21,,active,39.99,True,yearly,2026-06-26,527.82
+s_000290,u_00290,Bacic,2025-09-05,,active,9.99,True,monthly,2026-07-02,92.32
+s_000639,u_00639,PRO,2024-01-25,2026-06-03,cancelled,19.99,False,monthly,2026-05-22,546.53
+s_000620,u_00620,PRO,2024-03-20,2026-06-25,cancelled,19.99,True,monthly,2026-06-20,539.91
+s_000550,u_00550,BASIC,2024-05-13,2026-06-11,cancelled,9.99,True,monthly,2026-06-08,238.69
+s_000689,u_00689,Premium ,2025-09-03,,active,39.99,True,yearly,2026-06-18,409.81
+s_000407,u_00407,Bacic,2025-09-06,,active,9.99,True,yearly,2026-06-24,101.34
+s_000152,u_00152,BASIC,2025-10-21,,active,9.99,False,monthly,2026-07-03,84.97
+s_000533,u_00533,Pro ,2024-03-28,,active,19.99,True,monthly,2026-06-15,568.67
+s_000314,u_00314,Premium ,2025-12-19,,active,39.99,False,yearly,2026-06-24,253.75
+s_000121,u_00121,Bacic,2024-02-08,,active,9.99,True,yearly,2026-06-15,298.12
+s_000685,u_00685,Premium ,2025-04-01,,active,39.99,False,yearly,2026-06-26,591.47
+s_000302,u_00302,Pro,2025-12-17,,active,19.99,True,monthly,2026-07-05,140.3
+s_000077,u_00077,Basic,2025-02-23,,active,9.99,True,monthly,2026-06-29,166.54
+s_000790,u_00790,Premium,2024-11-15,,active,39.99,True,monthly,2026-07-05,756.57
+s_000633,u_00633,Basic ,2025-12-10,,active,9.99,True,monthly,2026-06-24,67.58
+s_000040,u_00040,Bacic,2024-03-31,,active,9.99,True,yearly,2026-06-22,250.05
+s_000764,u_00764,BAsic,2025-09-22,,active,9.99,True,monthly,2026-06-25,97.62
+s_000425,u_00425,pr0,2025-03-22,,active,19.99,True,monthly,2026-06-18,312.37
+s_000217,u_00217,Pro ,2025-05-20,,active,19.99,True,monthly,2026-07-01,267.13
+s_000470,u_00470,Proo,2024-02-16,,active,19.99,True,monthly,2026-06-23,531.7
+s_000520,u_00520,Basic ,2025-09-06,,active,9.99,True,monthly,2026-07-05,105.93
+s_000604,u_00604,Bacic,2025-11-11,,active,9.99,True,monthly,2026-06-30,76.35
+s_000658,u_00658,BAsic,2024-09-26,,active,9.99,True,monthly,2026-06-24,226.41
+s_000173,u_00173,Premiun,2025-05-21,,active,39.99,True,yearly,2026-06-26,527.82
+s_000576,u_00576,Bacic,2025-04-15,,active,9.99,True,monthly,2026-06-27,142.05
+s_000214,u_00214,basic,2024-02-26,2026-05-25,cancelled,9.99,False,monthly,2026-05-09,266.48
+s_000605,u_00605,Basic,2025-11-21,,active,9.99,True,monthly,2026-06-12,71.69
+s_000495,u_00495,pro,2025-08-07,,active,19.99,False,monthly,2026-06-25,230.32
+s_000568,u_00568,Basic,2024-07-16,,active,9.99,False,monthly,2026-06-13,226.6
+s_000797,u_00797,BAsic,2025-01-15,,active,9.99,False,monthly,2026-06-20,174.28
+s_000476,u_00476,premium,2025-11-06,,active,39.99,False,monthly,2026-07-02,328.95
+s_000624,u_00624,BAsic,2025-09-29,,active,9.99,True,yearly,2026-07-06,95.16
+s_000794,u_00794,BAsic,2025-01-31,,active,9.99,True,yearly,2026-06-13,157.58
+s_000711,u_00711,BASIC,2025-03-31,,active,9.99,True,monthly,2026-06-16,140.38
+s_000634,u_00634,basic,2025-12-16,,active,9.99,True,monthly,2026-06-15,61.95
+s_000467,u_00467,BASIC,2025-06-04,2026-04-24,cancelled,9.99,True,monthly,2026-04-23,102.19
+s_000359,u_00359,Pro ,2024-12-17,,active,19.99,True,monthly,2026-06-13,339.52
+s_000405,u_00405,Premium ,2025-04-07,,active,39.99,True,monthly,2026-06-30,617.23
+s_000699,u_00699,BASIC,2025-08-13,2026-06-15,cancelled,9.99,True,monthly,2026-05-22,97.55
+s_000459,u_00459,Premium ,2024-11-10,,active,39.99,True,monthly,2026-07-04,818.96
+s_000207,u_00207,Bacic,2025-05-06,,active,9.99,False,monthly,2026-06-12,145.17
+s_000061,u_00061,Basic,2025-12-25,,active,9.99,True,yearly,2026-06-18,65.54
+s_000234,u_00234,basic,2025-10-09,,active,9.99,True,monthly,2026-06-23,88.03
+s_000037,u_00037,Premium,2025-09-21,,active,39.99,True,monthly,2026-06-21,388.68
+s_000674,u_00674,Bacic,2024-06-10,,active,9.99,True,monthly,2026-07-03,235.56
+s_000004,u_00004,Pro,2025-03-10,,active,19.99,True,monthly,2026-06-23,294.75
+s_000655,u_00655,Pro ,2025-09-22,,active,19.99,False,monthly,2026-06-30,182.59
+s_000158,u_00158,BAsic,2025-02-11,,active,9.99,True,monthly,2026-07-04,154.58
+s_000581,u_00581,BASIC,2025-06-10,,active,9.99,True,monthly,2026-06-12,133.18
+s_000747,u_00747,BAsic,2025-01-19,,active,9.99,False,monthly,2026-06-19,161.61
+s_000461,u_00461,basic,2025-04-11,,active,9.99,True,monthly,2026-06-16,136.26
+s_000150,u_00150,BASIC,2026-01-19,,active,9.99,True,monthly,2026-06-14,56.5
+s_000666,u_00666,BAsic,2026-01-25,,active,9.99,False,monthly,2026-06-28,54.04
+s_000147,u_00147,pro,2025-04-29,,active,19.99,True,monthly,2026-06-26,266.31
+s_000194,u_00194,BASIC,2024-02-23,,active,9.99,True,yearly,2026-07-01,281.5
+s_000586,u_00586,premium,2024-05-30,,active,39.99,False,monthly,2026-06-19,1072.15
+s_000078,u_00078,BAsic,2025-06-22,2026-06-05,cancelled,9.99,True,monthly,2026-05-12,110.61
+s_000553,u_00553,BAsic,2024-11-10,,active,9.99,True,monthly,2026-06-26,204.05
+s_000555,u_00555,Basic,2025-11-06,2026-06-08,cancelled,9.99,False,monthly,2026-06-06,74.19
+s_000102,u_00102,Bacic,2025-06-09,,active,9.99,True,monthly,2026-06-28,128.64
+s_000125,u_00125,pro,2025-10-21,,active,19.99,True,yearly,2026-06-28,165.76
+s_000010,u_00010,Basic ,2026-01-09,,active,9.99,True,monthly,2026-06-26,54.76
+s_000785,u_00785,BASIC,2025-10-05,,active,9.99,False,yearly,2026-07-02,90.72
+s_000071,u_00071,Premuim,2025-06-25,,active,39.99,True,monthly,2026-06-21,468.62
+s_000252,u_00252,Proo,2024-12-31,,active,19.99,True,monthly,2026-06-20,367.97
+s_000126,u_00126,Pro,2025-08-04,,active,19.99,True,monthly,2026-07-06,229.94
+s_000304,u_00304,PRO,2024-07-21,,active,19.99,True,monthly,2026-06-17,467.94
+s_000258,u_00258,Premiun,2025-07-05,,active,39.99,True,monthly,2026-07-03,454.88
+s_000069,u_00069,Premium,2024-08-15,,active,39.99,True,yearly,2026-07-06,959.51
+s_000546,u_00546,Pro,2024-06-23,,active,19.99,True,monthly,2026-07-01,463.84
+s_000521,u_00521,PRO,2025-10-14,,active,19.99,True,monthly,2026-06-30,168.43
+s_000549,u_00549,BASIC,2026-01-24,,active,9.99,True,monthly,2026-06-28,54.72
+s_000043,u_00043,Premuim,2024-10-20,,active,39.99,True,monthly,2026-06-26,810.09
+s_000537,u_00537,BAsic,2025-12-17,,active,9.99,True,monthly,2026-07-05,68.72
+s_000124,u_00124,Proo,2025-02-24,,active,19.99,False,monthly,2026-06-29,300.51
+s_000554,u_00554,pro,2025-07-09,2026-06-18,cancelled,19.99,True,monthly,2026-06-11,214.08
+s_000083,u_00083,Basic,2025-06-19,,active,9.99,True,monthly,2026-06-26,124.39
+s_000130,u_00130,BAsic,2025-05-19,,active,9.99,True,yearly,2026-06-14,130.94
+s_000342,u_00342,BAsic,2025-04-12,,active,9.99,True,monthly,2026-06-29,147.93
+s_000779,u_00779,BASIC,2025-01-10,,active,9.99,False,monthly,2026-06-26,166.39
+s_000064,u_00064,basic,2025-04-15,2026-05-10,cancelled,9.99,False,monthly,2026-04-20,129.04
+s_000731,u_00731,basic,2026-02-27,,active,9.99,True,monthly,2026-06-22,39.93
+s_000235,u_00235,BASIC,2025-10-02,,active,9.99,True,monthly,2026-07-04,90.8
+s_000327,u_00327,BAsic,2024-09-01,,active,9.99,True,monthly,2026-06-18,215.59
+s_000120,u_00120,Bacic,2025-04-02,,active,9.99,True,monthly,2026-06-26,141.63
+s_000539,u_00539,PRO,2026-02-17,,active,19.99,False,monthly,2026-07-02,93.87
+s_000307,u_00307,basic,2025-04-07,,active,9.99,True,monthly,2026-06-29,137.43
+s_000058,u_00058,basic,2024-07-07,,active,9.99,True,yearly,2026-06-15,219.37
+s_000556,u_00556,Bacic,2024-12-15,,active,9.99,False,monthly,2026-06-30,179.35
+s_000285,u_00285,pro,2026-01-07,,active,19.99,False,yearly,2026-06-17,111.66
+s_000637,u_00637,pr0,2024-06-23,,active,19.99,False,monthly,2026-06-28,514.11
+s_000598,u_00598,Pro,2025-09-21,,active,19.99,True,monthly,2026-06-16,174.27
+s_000148,u_00148,pr0,2025-09-24,,active,19.99,False,monthly,2026-06-26,183.22
+s_000320,u_00320,PRO,2024-04-11,,active,19.99,True,monthly,2026-06-19,555.32
+s_000323,u_00323,Basic ,2024-10-26,,active,9.99,True,monthly,2026-06-28,203.1
+s_000128,u_00128,Proo,2026-01-20,,active,19.99,True,monthly,2026-07-05,111.76
+s_000195,u_00195,pro,2025-05-29,,active,19.99,True,monthly,2026-06-20,250.98
+s_000593,u_00593,Basic ,2025-09-19,,active,9.99,False,monthly,2026-06-24,100.75
+s_000063,u_00063,BAsic,2024-05-13,,active,9.99,True,monthly,2026-07-04,259.39
+s_000274,u_00274,Basic ,2025-07-31,,active,9.99,True,yearly,2026-07-05,114.57
+s_000645,u_00645,Premiun,2024-07-03,,active,39.99,False,monthly,2026-06-13,982.02
+s_000434,u_00434,Bacic,2024-03-15,,active,9.99,True,monthly,2026-06-27,263.23
+s_000486,u_00486,basic,2024-08-04,,active,9.99,True,monthly,2026-06-17,219.91
+s_000198,u_00198,BASIC,2024-11-27,,active,9.99,True,yearly,2026-06-20,179.86
+s_000627,u_00627,basic,2024-12-23,,active,9.99,False,yearly,2026-06-30,171.22
+s_000343,u_00343,Premuim,2025-11-14,,active,39.99,True,monthly,2026-06-30,300.82
+s_000474,u_00474,Bacic,2024-11-27,,active,9.99,False,monthly,2026-06-23,180.11
+s_000528,u_00528,basic,2024-05-01,,active,9.99,False,monthly,2026-06-29,263.67
+s_000411,u_00411,pr0,2025-06-05,2026-06-20,cancelled,19.99,True,monthly,2026-06-02,237.25
+s_000638,u_00638,BASIC,2025-09-01,,active,9.99,True,monthly,2026-07-04,100.89
+s_000451,u_00451,basic,2025-05-07,,active,9.99,True,yearly,2026-06-16,131.02
+s_000032,u_00032,BAsic,2025-01-29,,active,9.99,True,monthly,2026-06-29,170.93
+s_000205,u_00205,Premuim,2025-08-14,,active,39.99,True,monthly,2026-06-29,423.4
+s_000131,u_00131,Premium ,2024-06-16,,active,39.99,False,monthly,2026-06-21,941.23
+s_000265,u_00265,pr0,2024-04-12,,active,19.99,False,monthly,2026-06-12,559.45
+s_000325,u_00325,BASIC,2024-04-15,,active,9.99,True,monthly,2026-06-28,283.64
+s_000623,u_00623,Basic,2024-10-13,,active,9.99,False,monthly,2026-07-06,191.3
+s_000749,u_00749,Premium ,2025-04-04,,active,39.99,True,yearly,2026-07-02,592.16
+s_000162,u_00162,BASIC,2025-12-09,,active,9.99,True,monthly,2026-06-22,68.43
+s_000496,u_00496,Basic,2024-11-21,,active,9.99,True,monthly,2026-06-13,185.38
+s_000027,u_00027,Pro,2025-05-16,,active,19.99,True,monthly,2026-06-14,261.16
+s_000698,u_00698,BAsic,2024-05-27,2026-04-11,cancelled,9.99,True,monthly,2026-03-21,215.47
+s_000334,u_00334,basic,2025-08-05,,active,9.99,True,monthly,2026-07-01,102.31
+s_000076,u_00076,PRO,2025-09-02,,active,19.99,True,monthly,2026-06-17,189.33
+s_000514,u_00514,Pro,2024-11-25,,active,19.99,True,monthly,2026-06-17,387.65
+s_000282,u_00282,PRO,2024-02-17,,active,19.99,True,monthly,2026-07-02,592.43
+s_000319,u_00319,Bacic,2024-10-19,2026-04-11,cancelled,9.99,True,yearly,2026-03-30,183.69
+s_000363,u_00363,Premium,2024-06-06,2026-05-24,cancelled,39.99,True,monthly,2026-05-16,866.6
+s_000336,u_00336,Pro ,2025-08-31,,active,19.99,True,monthly,2026-06-23,202.83
+s_000366,u_00366,pr0,2026-01-19,,active,19.99,False,monthly,2026-06-26,112.49
+s_000619,u_00619,PRO,2026-01-04,,active,19.99,True,monthly,2026-07-04,118.99
+s_000228,u_00228,PREMIUM,2024-10-24,2026-06-03,cancelled,39.99,True,monthly,2026-05-18,725.52
+s_000714,u_00714,Bacic,2026-02-14,,active,9.99,True,yearly,2026-06-22,43.81

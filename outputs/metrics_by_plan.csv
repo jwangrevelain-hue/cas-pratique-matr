@@ -1,0 +1,4 @@
+plan_name,subscriptions,active,cancelled,mrr_active,avg_tenure_days,total_revenue,churn_rate,mrr_share
+Basic,450,386,64,3856.14,451.08,65884.65,0.14,0.31
+Premium,118,109,9,4358.91,488.92,75469.19,0.08,0.35
+Pro,232,207,25,4137.93,483.46,72862.12,0.11,0.34
